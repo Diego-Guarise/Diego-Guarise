@@ -7,5 +7,5 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-Guarise&card_width=445&theme=flag-india&layout=compact" />
 </a>
 <a href="https://github.com/demartini/demartini/blob/master/code.gif">
-<img align="left" src="https://github.com/demartini/demartini/blob/master/code.gif " />
+<img align="left" width=540px height=auto src="https://github.com/demartini/demartini/blob/master/code.gif " />
 </a>
