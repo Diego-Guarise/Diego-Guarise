@@ -12,21 +12,20 @@
 
 ## A little more about me...
 
-<div class="highlight highlight-source-js position-relative">
-
-<span class="pl-c">#!/usr/bin/python</span>
+```
+#!/usr/bin/python</span>
 	
-<pre><span class="pl-k">class</span> <span class="pl-s1">Software_Development_Student</span><span class="pl-c1">:</span>
+class Software_Development_Student:
 
-    <span class="pl-k">def</span> <span class="pl-en">__init__</span>(self):
+    def __init__(self):
 
-        <span class="pl-s">self.code</span> = "<span class="pl-v">C, Phyton, HTML5</span>"
-        <span class="pl-s">self.environment</span> = "<span class="pl-v">Vim, VS Code, Git, GitHub, GNU Bash</span>"
-        <span class="pl-s">self.language_spoken</span> = "<span class="pl-v">es_UY, en_US</span>"
+        self.code = "C, Phyton, HTML5"
+        self.environment = "Vim, VS Code, Git, GitHub, GNU Bash"
+        self.language_spoken = "es_UY, en_US"
     
-    <span class="pl-k">def</span> <span class="pl-en">say_hi</span>(self):
-        <span class="pl-en">print</span>("<span class="pl-v">Thanks for stopping by, I hope you find some of my work interesting. See you soon.</span>")
+    def say_hi(self):
+        print("Thanks for stopping by, I hope you find some of my work interesting. See you soon.")
 
-<span class="pl-s">me</span> = <span class="pl-s1">Software_Development_Student</span>()
-<span class="pl-s">me.</span><span class="pl-en">say_hi</span>()
-</div>
+me = Software_Development_Student()
+me.say_hi()
+```
