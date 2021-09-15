@@ -13,9 +13,9 @@
 ## A little more about me...
 
 <div class="highlight highlight-source-js position-relative">
-  #!/usr/bin/python
-<pre><span class="pl-k">class</span> <span class="pl-s1">Software_Development_Student</span><span class="pl-c1">:</span> 
-<pre><span class="pl-k">def</span> <span class="pl-s3">__init__</span>(self):
+	
+ <pre><span class="pl-k">class</span> <span class="pl-s1">Software_Development_Student</span><span class="pl-c1">:</span> 
+ <pre><span class="pl-k">def</span> <span class="pl-s3">__init__</span>(self):
 
     <span class="pl-s">self.code</span> = "<span class="pl-v">C, Phyton, HTML5</span>"
     <span class="pl-s">self.environment</span> = "<span class="pl-v">Vim, VS Code, Git, GitHub, GNU Bash</span>"
