@@ -9,3 +9,23 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" width=50% height=auto src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-Guarise&card_width=445&theme=flag-india&layout=compact" />
 </a>
+
+## A little more about me...
+
+```
+#!/usr/bin/python
+
+class Software_Development_Student:
+
+    def __init__(self):
+        self.code = "C, Phyton, HTML5"
+        self.environment = "Vim, VS Code, Git, GitHub, GNU Bash"
+        self.language_spoken = ["es_UY", "en_US"]
+        
+    def say_hi(self):
+        print("Thanks for stopping by, I hope you find some of my work interesting. See you soon.")
+
+
+me = Software_Development_Student()
+me.say_hi()
+```
