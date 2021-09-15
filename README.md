@@ -13,7 +13,7 @@
 ## A little more about me...
 
 <div class="highlight highlight-source-js position-relative">
-<pre>	
+
 <span class="pl-c">#!/usr/bin/python</span>
 	
 <pre><span class="pl-k">class</span> <span class="pl-s1">Software_Development_Student</span><span class="pl-c1">:</span>
@@ -29,4 +29,3 @@
 
 <span class="pl-s">me</span> = <span class="pl-s1">Software_Development_Student</span>()
 <span class="pl-s">me.</span><span class="pl-en">say_hi</span>()
-</pre>
