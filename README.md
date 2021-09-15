@@ -1,4 +1,5 @@
-### Hi there, I'm Diego 👋
+
+### <h1 align="center" id="heading">Hi there, I'm Diego 👋</h1>
 
 <img align="left" width=100% height=auto src="https://tufuturo.cl/wp-content/uploads/2020/02/Blog-Post-Graphic-How-to-design-the-perfect-MMS_gif.gif" />
 </a>
