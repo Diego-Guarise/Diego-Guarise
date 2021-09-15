@@ -28,22 +28,3 @@
 
 <span class="pl-s">me</span> = <span class="pl-s1">Software_Development_Student</span>()
 <span class="pl-s">me.</span><span class="pl-s3">say_hi</span>()
-
- 
-```
-#!/usr/bin/python
-
- class Software_Development_Student:
-
-    def __init__(self):
-        self.code = "C, Phyton, HTML5"
-        self.environment = "Vim, VS Code, Git, GitHub, GNU Bash"
-        self.language_spoken = ["es_UY", "en_US"]
-        
-    def say_hi(self):
-        print("Thanks for stopping by, I hope you find some of my work interesting. See you soon.")
-
-
-me = Software_Development_Student()
-me.say_hi()
-```
