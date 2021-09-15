@@ -11,11 +11,8 @@
 </a>
 
 ## A little more about me...
-
+```#!/usr/bin/python```
 <div class="highlight highlight-source-js position-relative">
-  
-  <span class="pl-s">#!/usr/bin/python</span>
-  
 <pre><span class="pl-k">class</span> <span class="pl-s1">Software_Development_Student</span><span class="pl-c1">:</span> 
 <pre><span class="pl-k">def</span> <span class="pl-s3">__init__</span>(self):
 
