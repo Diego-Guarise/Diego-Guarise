@@ -13,7 +13,7 @@
 ## A little more about me...
 
 ```
-#!/usr/bin/python</span>
+#!/usr/bin/python3
 	
 class Software_Development_Student:
 
