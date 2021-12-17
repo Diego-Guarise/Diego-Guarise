@@ -20,8 +20,8 @@ class Software_Development_Student:
 
     def __init__(self):
 
-        self.code = "C, Phyton, HTML5"
-        self.environment = "Vim, VS Code, Git, GitHub, GNU Bash"
+        self.code = "C, Phyton, JavaScript, HTML5, CSS3"
+        self.environment = "Vim, MySQL, VS Code, Git, GitHub, GNU Bash"
         self.language_spoken = "es_UY, en_US"
     
     def say_hi(self):
