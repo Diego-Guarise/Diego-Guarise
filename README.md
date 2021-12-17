@@ -27,6 +27,6 @@ class Software_Engineering_Student:
     def say_hi(self):
         print("Thanks for stopping by, I hope you find some of my work interesting. See you soon.")
 
-me = Software_Development_Student()
+me = Software_Engineering_Student()
 me.say_hi()
 ```
