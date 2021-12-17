@@ -5,10 +5,10 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width=49% height=auto src="https://github-readme-stats.vercel.app/api?username=Diego-Guarise&show_icons=true&hide=prs,issues&theme=flag-india" />
+  <img align="center" width=49.5% height=auto src="https://github-readme-stats.vercel.app/api?username=Diego-Guarise&show_icons=true&hide=prs,issues&theme=flag-india" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" width=50% height=auto src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-Guarise&card_width=445&theme=flag-india&layout=compact" />
+  <img align="center" width=49.5% height=auto src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-Guarise&langs_count=8&card_width=445&theme=flag-india&layout=compact" />
 </a>
 
 ## A little more about me...
@@ -16,7 +16,7 @@
 ```python
 #!/usr/bin/python3
 	
-class Software_Development_Student:
+class Software_Engineering_Student:
 
     def __init__(self):
 
