@@ -21,8 +21,14 @@ class Software_Engineering_Student:
     def __init__(self):
 
         self.code = "C, Phyton, JavaScript, HTML5, CSS3"
-        self.environment = "Vim, MySQL, VS Code, Git, GitHub, GNU Bash"
+	self.soon = "Django, Flask, Node.js"
+        self.environment = "Ubuntu, NeoVim, MySQL, VS Code, Git, GitHub, GNU Bash"
         self.language_spoken = "es_UY, en_US"
+    
+    def Skills(self):
+    	self.skills = "critical thinking, problem solving, adaptability,\
+			leadership, professional attitude, communication,\
+			friendly personality, creative, empathic"
     
     def say_hi(self):
         print("Thanks for stopping by, I hope you find some of my work interesting. See you soon.")
