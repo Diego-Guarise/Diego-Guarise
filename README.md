@@ -13,7 +13,7 @@
 
 ## A little more about me...
 
-```python
+```python3
 #!/usr/bin/python3
 	
 class Software_Engineering_Student:
@@ -26,8 +26,8 @@ class Software_Engineering_Student:
         self.language_spoken = "es_UY, en_US"
     
     def Skills(self):
-    	self.skills = "critical thinking, problem solving, adaptability,\
-			leadership, professional attitude, communication,\
+    	self.skills = "critical thinking, problem solving, adaptability,
+			leadership, professional attitude, communication,
 			friendly personality, creative, empathic"
     
     def say_hi(self):
