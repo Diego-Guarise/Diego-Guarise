@@ -16,7 +16,7 @@
 ```python3
 #!/usr/bin/python3
 	
-class Software_Engineering_Student:
+class Software_Development_Student:
 
     def __init__(self):
 
