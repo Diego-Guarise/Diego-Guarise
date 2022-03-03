@@ -21,8 +21,8 @@ class Software_Development_Student:
     def __init__(self):
 
         self.code = "C, Phyton, JavaScript, HTML5, CSS3"
-	self.soon = "Django, Flask, Node.js"
-        self.environment = "Ubuntu, NeoVim, MySQL, VS Code, Git, GitHub, GNU Bash"
+	self.soon = "Tensorflow, Pandas, Keras"
+        self.environment = "Ubuntu, Flask, MongoDB, MySQL, Node.js, VS Code, Git, GitHub, GNU Bash, NeoVim,"
         self.language_spoken = "es_UY, en_US"
     
     def Skills(self):
