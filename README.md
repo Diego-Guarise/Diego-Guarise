@@ -21,8 +21,8 @@ class Software_Development_Student:
     def __init__(self):
 
         self.code = "C, Phyton, JavaScript, HTML5, CSS3"
-	self.soon = "Django, Tensorflow, Pandas, Keras"
-        self.environment = "Ubuntu, Flask, MongoDB, MySQL, Node.js, VS Code, Git, GitHub, GNU Bash, NeoVim,"
+	self.soon = "Django, NTensorflow, Pandas"
+        self.environment = "Ubuntu, Flask, MongoDB, MySQL, NodeJS, VS Code, Git, GitHub, GNU Bash, NeoVim,"
         self.language_spoken = "es_UY, en_US"
     
     def Skills(self):
@@ -33,6 +33,6 @@ class Software_Development_Student:
     def say_hi(self):
         print("Thanks for stopping by, I hope you find some of my work interesting. See you soon.")
 
-me = Software_Engineering_Student()
+me = Software_Development_Student()
 me.say_hi()
 ```
