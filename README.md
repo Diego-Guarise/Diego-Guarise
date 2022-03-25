@@ -16,7 +16,7 @@
 ```python3
 #!/usr/bin/python3
 	
-class Software_Development_Student:
+class Software_Development:
 
     def __init__(self):
 
@@ -33,6 +33,6 @@ class Software_Development_Student:
     def say_hi(self):
         print("Thanks for stopping by, I hope you find some of my work interesting. See you soon.")
 
-me = Software_Development_Student()
+me = Software_Development()
 me.say_hi()
 ```
